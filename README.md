@@ -1,5 +1,8 @@
 # Pizza-Steak-Classifier-Using-CNN
 
+# DATASET LINK:
+!wget https://storage.googleapis.com/ztm_tf_course/food_vision/pizza_steak.zip
+
 Note:
 You can use CNNs for image data as well as text data. CNNs exploit local relationships very well.
 An image has patterns which are very well spatially correlated on a local scale (i.e., we don't have per pixel patterns, rather they span in a spatial location with a definite structure).
